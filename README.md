@@ -38,7 +38,7 @@ In this project, data analysis was conducted concerning obesity levels among ind
 - To prevent obesity, it is important to increase physical activity, reduce snack frequency, and manage eating habits.
 - Given the decrease in activity with the increase in obesity levels, focus should be placed on mobility support programs for individuals with high levels of obesity.
 
-  ***
+***
 
   # Project: Google Analytics Data Analysis with BigQuery
 
