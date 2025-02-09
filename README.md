@@ -58,5 +58,5 @@ In this project, I worked with Google Analytics data, executing various SQL quer
 
 ## Results:
 I obtained numerical results that helped identify key trends on the website, such as the most popular devices, countries, traffic sources, and other indicators that are crucial for optimizing marketing strategies and improving the user experience.
-[# Using BigQuery for Working with the Table](https://docs.google.com/document/d/1i3nq66Lkm2xyAaC3ioxFFUcFRt7ePe7zuDsD8ehQ9wA/edit?tab=t.0#heading=h.1kywdni6h5q5)
+[Using BigQuery for Working with the Table](https://docs.google.com/document/d/1i3nq66Lkm2xyAaC3ioxFFUcFRt7ePe7zuDsD8ehQ9wA/edit?tab=t.0#heading=h.1kywdni6h5q5)
 
