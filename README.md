@@ -4,13 +4,13 @@ This report is designed for analyzing obesity levels across individuals from Mex
 
 ## Key Features:
 
-✅ **Obesity Level by Gender** – A pie chart displays the distribution of obesity levels across different genders (Male, Female).
+ **Obesity Level by Gender** – A pie chart displays the distribution of obesity levels across different genders (Male, Female).
 
-✅ **Obesity Level by Age** – An interactive graph shows the correlation between age and obesity level, providing insights into how age affects obesity trends.
+ **Obesity Level by Age** – An interactive graph shows the correlation between age and obesity level, providing insights into how age affects obesity trends.
 
-✅ **Physical Activity vs Obesity** – A bar chart illustrates the average physical activity levels (FAF) across different obesity categories.
+ **Physical Activity vs Obesity** – A bar chart illustrates the average physical activity levels (FAF) across different obesity categories.
 
-✅ **Impact of Eating Habits** – A table analyzes the relationship between eating habits (e.g., frequency of snacks, calorie consumption) and obesity levels.
+ **Impact of Eating Habits** – A table analyzes the relationship between eating habits (e.g., frequency of snacks, calorie consumption) and obesity levels.
 
 This project demonstrates skills in data analysis, correlation study, and generating actionable insights for health and wellness decision-making.
 
