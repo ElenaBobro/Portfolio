@@ -38,6 +38,8 @@ In this project, data analysis was conducted concerning obesity levels among ind
 - To prevent obesity, it is important to increase physical activity, reduce snack frequency, and manage eating habits.
 - Given the decrease in activity with the increase in obesity levels, focus should be placed on mobility support programs for individuals with high levels of obesity.
 
+  ***
+
   # Project: Google Analytics Data Analysis with BigQuery
 
 In this project, I worked with Google Analytics data, executing various SQL queries using BigQuery to analyze session data of users. The tasks included calculating the number of sessions, distribution by device types, analyzing traffic sources, the most visited pages, average session duration, and more.
